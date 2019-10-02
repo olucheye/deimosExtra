@@ -56,9 +56,9 @@ p{
     color: #6D1AD8;
 }
 
-#team{
+#invCoin{
     width: 50rem;
-    margin-left: -13rem;
+    margin-left: -15rem;
 }
 
 .btn-default{
@@ -84,12 +84,12 @@ p{
 
 .footer{
     background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
-    background: cover;
+    background-size: cover;
     background-repeat: no-repeat;
     color: white;
 }
 
 #investor{
     width: 40rem;
-    margin-left: -2rem;
+    margin-left: -5rem;
 }
