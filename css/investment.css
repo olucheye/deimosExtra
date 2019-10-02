@@ -64,6 +64,7 @@ p{
 .btn-default{
     border: 2px #6D1AD8 solid;
     color: #6D1AD8;
+    border-radius: 10px 0 10px 10px;
 }
 
 .btn-default:hover{
